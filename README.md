@@ -2,6 +2,8 @@
 
 Hackathon project 🏠 from NWhacks2019 
 
+![Project_Image](https://github.com/anhyesun/UBCcure/blob/master/UBCcure.png)
+
 ## Inspiration
 
 Vancouver is prone to a number of natural disasters, such as Wildfires, Earthquakes and Hailstorms. We wanted to build an alexa skill that allows families around the world to quiz themselves on safety procedures on a daily basis. 
